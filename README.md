@@ -1,1 +1,2 @@
 # python
+Pygame exercices
